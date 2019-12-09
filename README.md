@@ -1,2 +1,2 @@
 # py
-test py repo
+test py repo -demo
